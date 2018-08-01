@@ -145,7 +145,7 @@
     "redux": "^4.0.0",
     "redux-electron-store": "^0.6.1",
     "redux-logger": "^3.0.6",
-    "redux-observable": "^0.19.0",
+    "redux-observable": "^1.0.0",
     "rimraf": "^2.6.2",
     "rxjs": "^5.5.6",
     "shell-env": "^2.0.0",
